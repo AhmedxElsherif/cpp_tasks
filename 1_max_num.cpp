@@ -1,3 +1,10 @@
+/*
+ * --------------------------------   1_max_num.cpp   --------------------------------
+ * Author : Ahmed ElSherif
+ * File   : Maximum Number Between Three Values
+ * Path   : repo/cpp_tasks
+ *
+ */
 #include <algorithm>
 #include <iostream>
 
